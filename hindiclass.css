@@ -1,0 +1,25 @@
+.whole{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    margin:20px;
+    background:linear-gradient(135deg, #00c6ff, #0072ff);
+    border:5px solid;
+    box-sizing: border-box;
+    box-shadow:10px 10px 10px grey;
+    font-size: 20px;
+}
+.online{
+    h2{
+       color:crimson; 
+       
+    }
+    ul{
+        color:black;
+    }
+}
+.contact{
+    text-align: center;
+    color:rgb(243, 246, 248);
+}
